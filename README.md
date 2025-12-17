@@ -68,10 +68,5 @@ This project is begineer friendly, clean and scalable.Please use this code for e
 
 **7. Postman for testing**
 
-
-
-
-
-
 ```
     
