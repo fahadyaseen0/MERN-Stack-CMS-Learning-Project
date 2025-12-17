@@ -35,12 +35,6 @@ Postman is free opensource api testing tool which is first choice of every backe
 This project is begineer friendly, clean and scalable.Please use this code for educational purpuse if you are begineer.Contributions are always welcome.
 
 **## Happy Coding ##**
-## Deployment
-
-This project is live here
-
-https://wikibio.vercel.app/
-
 
 ## App Functionality
 
@@ -78,39 +72,6 @@ https://wikibio.vercel.app/
 
 
 
-## Installation
 
-To Use this code, follow this steps:-
-
-```bash
-  git clone https://github.com/SarkarTmz/CMS-MERN
-
-  cd Backend(Node)
-
-  npm install
-
-  npm start
-
-  // Open new tab 
-
-  cd Frontend(React)
-
-  npm install
-
-  npm run dev
-  
 ```
     
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
-## Author
-
-- [@SarkarTmz](https://www.github.com/SarkarTmz)
-
